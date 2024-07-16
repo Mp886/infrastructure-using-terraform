@@ -1,2 +1,2 @@
 # infrastructure-using-terraform
-Setting up an infrastructure using Terraform(HCL)
+Setting up an infrastructure in AWS using Terraform(HCL)
