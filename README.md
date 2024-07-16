@@ -31,4 +31,4 @@ Using Amazon S3 for Data Storage:
 - S3 provides a highly available and durable storage solution that can be accessed from your EC2 instances.
 
 Conclusion
-By using Terraform, you can automate the provisioning of a robust, highly available, and scalable architecture for your web applications. This Terraform configuration file sets up a VPC, public subnets, Internet Gateway, Application Load Balancer, EC2 instances, and an S3 bucket, ensuring that your applications are accessible, resilient, and can handle varying loads efficiently.
+- By using Terraform, you can automate the provisioning of a robust, highly available, and scalable architecture for your web applications. This Terraform configuration file sets up a VPC, public subnets, Internet Gateway, Application Load Balancer, EC2 instances, and an S3 bucket, ensuring that your applications are accessible, resilient, and can handle varying loads efficiently.
